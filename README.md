@@ -1,7 +1,6 @@
-🎥 Video 
+
 ### 🎥 Demo Video
-### 🎥 Demo Video
-<video src="https://raw.githubusercontent.com/esraamohammedelghorab/SWEGLABS-SWDEPI-25/refs/heads/main/Project%20Video" controls width="600"></video>
+<video src="https://raw.githubusercontent.com/esraamohammedelghorab/SWEGLABS-SWDEPI-25/refs/heads/main/Project%20Video.mp4" controls width="600"></video>
 
 
 
