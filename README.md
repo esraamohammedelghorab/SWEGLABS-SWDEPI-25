@@ -1,9 +1,4 @@
 
-### 🎥 Demo Video
-<video src="https://raw.githubusercontent.com/esraamohammedelghorab/SWEGLABS-SWDEPI-25/main/project video.mp4" controls width="600"></video>
-
-
-
 🧪 Swag Labs – Software Testing Project
 
 A complete Manual & Automated Testing project for the Swag Labs E-commerce Web Application (https://www.saucedemo.com).
