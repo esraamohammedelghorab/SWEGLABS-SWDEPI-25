@@ -1,5 +1,7 @@
 🎥 Video 
-https://github.com/esraamohammedelghorab/SWEGLABS-SWDEPI-25/blob/main/Project%20Video
+### 🎥 Demo Video
+<video src="[https://raw.githubusercontent.com/USERNAME/REPO/main/assets/demo.mp4](https://raw.githubusercontent.com/esraamohammedelghorab/SWEGLABS-SWDEPI-25/refs/heads/main/Project%20Video)" controls width="600"></video>
+
 
 🧪 Swag Labs – Software Testing Project
 
