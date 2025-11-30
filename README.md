@@ -27,14 +27,23 @@ This project demonstrates our full QA process: analysis → test planning → te
 
 🔐 Login & Authentication
 🛒 Products Page
+
 👜 Add to Cart
+
 🧾 Checkout Process
+
 🪪  User Information Form
+
 💳 Order Overview
+
 ✔️ Order Completion
+
 Non-Functional Testing
+
 📱 Mobile responsive UI testing
+
 📱 Mobile App Testing 
+
 
 We also executed tests on the mobile version of Swag Labs using:
 Android Application
@@ -43,14 +52,21 @@ Key scenarios: login, add to cart, checkout, navigation
 
 🧩 Test Artifacts
 1️⃣ User Story Design
+
 Before creating test scenarios and test cases, we analyzed the application features and converted them into clear, testable User Stories based on the Swag Labs functionality.
 
 2️⃣ Test Cases
+
 Written using clear steps, expected results, and pass/fail criteria
+
 Example modules:
 
+
 Login Test Cases
+
 Products Test Cases
+
+
 Cart Test Cases
 Checkout Test Cases
 
