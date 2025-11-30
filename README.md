@@ -38,7 +38,7 @@ This project demonstrates our full QA process: analysis → test planning → te
 
 ✔️ Order Completion
 
-Non-Functional Testing
+* Non-Functional Testing
 
 📱 Mobile responsive UI testing
 
@@ -51,6 +51,7 @@ Android Application
 Key scenarios: login, add to cart, checkout, navigation
 
 🧩 Test Artifacts
+
 1️⃣ User Story Design
 
 Before creating test scenarios and test cases, we analyzed the application features and converted them into clear, testable User Stories based on the Swag Labs functionality.
@@ -68,42 +69,71 @@ Products Test Cases
 
 
 Cart Test Cases
+
 Checkout Test Cases
 
+
 3️⃣ Bug Reports
+
 Defects were logged with:
+
 Bug ID
+
 Title
+
 Steps to reproduce
+
 Expected vs. actual result
+
 Environment
+
 Severity & Priority
+
 Screenshots
+
 
 🤖 Automation Testing
 
 Automation was implemented using:
+
 Tool	                 Purpose
+
 Java	                 Programming language
+
 Selenium WebDriver	   Browser automation
+
 TestNG	               Test framework & assertions
+
 Page Object Model(POM) Organized and maintainable structure
+
 Maven	Dependency management
 
+
 Automated Scenarios:
+
 Login with valid and invalid data
+
 Add product to cart
+
 Remove product from cart
+
 Checkout flow
+
 Validate price & tax calculations
+
 Order completion page
 
 
 🧪 Test Coverage Summary
 
+
 Total Test Cases: 159
 
+
+
 Automated Scenarios: (add number)
+
+
 
 Bugs Found: 15
 
@@ -111,21 +141,37 @@ Bugs Found: 15
 
 🛠️ Tools & Technologies
 
+
 Java
+
 Selenium
+
 TestNG
+
 Maven
+
 Git & GitHub
+
 Excel / Google Sheets
+
 Chrome DevTools
+
 IntelliJ IDEA
+
+
 
 👥 Team Members
 
+
+
 Esraa Mohammed Elghorab
+
 Mahmoud Ahmed ElSayed Mohamed Mousa
+
 Mohamed yousry said
+
 Mohamed Lotfy Abdel Hakeem Elzogbhy
+
 Bassem Kamal Mostafa AboSeeda
 
 
