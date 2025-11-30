@@ -63,33 +63,32 @@ Written using clear steps, expected results, and pass/fail criteria
 Example modules:
 
 
-Login Test Cases
+- Login Test Cases
 
-Products Test Cases
+- Products Test Cases
 
+- Cart Test Cases
 
-Cart Test Cases
-
-Checkout Test Cases
+- Checkout Test Cases
 
 
 3️⃣ Bug Reports
 
 Defects were logged with:
 
-Bug ID
+- Bug ID
 
-Title
+- Title
 
-Steps to reproduce
+- Steps to reproduce
 
-Expected vs. actual result
+- Expected vs. actual result
 
-Environment
+- Environment
 
-Severity & Priority
+- Severity & Priority
 
-Screenshots
+- Screenshots
 
 
 🤖 Automation Testing
@@ -98,65 +97,59 @@ Automation was implemented using:
 
 Tool	                 Purpose
 
-Java	                 Programming language
+- Java	                 Programming language
 
-Selenium WebDriver	   Browser automation
+- Selenium WebDriver	   Browser automation
 
-TestNG	               Test framework & assertions
+- TestNG	               Test framework & assertions
 
-Page Object Model(POM) Organized and maintainable structure
+- Page Object Model(POM) Organized and maintainable structure
 
-Maven	Dependency management
+- Maven	Dependency management
 
 
 Automated Scenarios:
 
-Login with valid and invalid data
+- Login with valid and invalid data
 
-Add product to cart
+- Add product to cart
 
-Remove product from cart
+- Remove product from cart
 
-Checkout flow
+- Checkout flow
 
-Validate price & tax calculations
+- Validate price & tax calculations
 
-Order completion page
+- Order completion page
 
 
 🧪 Test Coverage Summary
 
 
-Total Test Cases: 159
+- Total Test Cases: 159
 
-
-
-Automated Scenarios: (add number)
-
-
-
-Bugs Found: 15
+- Bugs Found: 15
 
 
 
 🛠️ Tools & Technologies
 
 
-Java
+- Java
 
-Selenium
+- Selenium
 
-TestNG
+- TestNG
 
-Maven
+- Maven
 
-Git & GitHub
+- Git & GitHub
 
-Excel / Google Sheets
+- Excel
 
-Chrome DevTools
+- Chrome DevTools
 
-IntelliJ IDEA
+- IntelliJ IDEA
 
 
 
@@ -164,17 +157,17 @@ IntelliJ IDEA
 
 
 
-Esraa Mohammed Elghorab
+- Esraa Mohammed Elghorab
 
-Mahmoud Ahmed ElSayed Mohamed Mousa
+- Mahmoud Ahmed ElSayed Mohamed Mousa
 
-Mohamed yousry said
+- Mohamed yousry said
 
-Mohamed Lotfy Abdel Hakeem Elzogbhy
+- Mohamed Lotfy Abdel Hakeem Elzogbhy
 
-Bassem Kamal Mostafa AboSeeda
+- Bassem Kamal Mostafa AboSeeda
 
 
 
-This project demonstrates complete end-to-end QA skills, including requirements analysis, test design, manual execution, automation, and reporting.
+** This project demonstrates complete end-to-end QA skills, including requirements analysis, test design, manual execution, automation, and reporting.
 It reflects the full testing lifecycle for a real e-commerce workflow.
